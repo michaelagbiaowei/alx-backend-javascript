@@ -1,2 +1,2 @@
-# alx-backend-javascript
-Alx Backend with Node
+## alx-backend-javascript
+# Code written for Backend JS studies at ALX
